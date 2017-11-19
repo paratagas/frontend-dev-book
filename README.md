@@ -1,4 +1,4 @@
-# My work with frontend dev book
+# My work with [frontend dev book]
 ## Consists of several sub-projects
 
 ### Ottergram
@@ -21,5 +21,6 @@ MIT
 
 ---
 
+ [frontend dev book]: <https://www.amazon.com/Front-End-Web-Development-Ranch-Guides/dp/0134433947>
  [Node.js]: <https://nodejs.org/>
  [Browser-sync]: <https://www.npmjs.com/package/browser-sync>
