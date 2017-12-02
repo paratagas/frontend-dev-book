@@ -1,0 +1,13 @@
+// ----------------------------
+// bootstrap variable overrides
+// ----------------------------
+// end bootstrap variable overrides
+@import 'bootstrap';
+
+$bg-color: coral;
+
+.navbar {
+  background-color: $bg-color;
+  border-radius: 10px;
+  padding: 5px;
+}
